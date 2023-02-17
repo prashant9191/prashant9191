@@ -2,14 +2,13 @@
 # Hi there! 👋
 
 <!-- Introduction -->
-I'm [your name], a [your occupation or area of expertise]. Welcome to my GitHub profile! Here's a quick overview of my stats:
+I'm PRASHANT VERMA, a aspiring FULL STACK WEB DEVELOPER. Welcome to my GitHub profile! Here's a quick overview of my stats:
 
 <!-- Current Status -->
-- 🔭 I’m currently working on [name of your current project]
-- 🌱 I’m currently learning [name of programming language, technology, or skill you're currently learning]
-- 💬 Ask me about [any topics you're particularly knowledgeable about]
-- 📫 How to reach me: [your email address or social media handles]
-- 😄 Pronouns: [your preferred pronouns]
+- 🔭 I’m currently working on BACKEND PROJECT 
+- 🌱 I’m currently learning Node js,Express, Mongo DB
+- 💬 Ask me about FULL STACK WEB DEVELOPMENT
+- 📫 How to reach me: talkprashant9@gmail.com
 
 <!-- GitHub Stats -->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant9191&count_private=true&show_icons=true&theme=radical)](https://github.com/prashant9191/github-readme-stats)
@@ -25,7 +24,7 @@ I'm [your name], a [your occupation or area of expertise]. Welcome to my GitHub 
 
 Here are some of my notable projects:
 
-- [Project 1](link to project repository or live website)
+- [Project 1][(https://famous-chebakia-bf6abc.netlify.app/)]
 - [Project 2](link to project repository or live website)
 - [Project 3](link to project repository or live website)
 
