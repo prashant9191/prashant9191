@@ -24,7 +24,7 @@ I'm PRASHANT VERMA, a aspiring FULL STACK WEB DEVELOPER. Welcome to my GitHub pr
 
 Here are some of my notable projects:
 
-- [Project 1][(https://famous-chebakia-bf6abc.netlify.app/)]
+- [Project 1] https://famous-chebakia-bf6abc.netlify.app/
 - [Project 2](link to project repository or live website)
 - [Project 3](link to project repository or live website)
 
