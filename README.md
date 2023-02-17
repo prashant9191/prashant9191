@@ -16,8 +16,6 @@ I'm PRASHANT VERMA, a aspiring FULL STACK WEB DEVELOPER. Welcome to my GitHub pr
 <!-- Top Languages -->
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&langs_count=8&theme=radical)](https://github.com/prashant9191/github-readme-stats)
 
-<!-- Recent Activity -->
-[![My Recent Activity](https://activity-graph.herokuapp.com/graph?username=prashant9191&theme=rogue)](https://github.com/prashant9191/github-readme-activity-graph)
 
 <!-- Projects -->
 ## Projects
