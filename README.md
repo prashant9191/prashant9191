@@ -75,7 +75,7 @@
  
  ## 📊 My Github Stats
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prashant9191)](https://github.com/prashant9191/github-readme-stats)
+<div></div>
 
 <p align="center">
     <a href="https://github.com/prashant9191/github-readme-streak-stats">
