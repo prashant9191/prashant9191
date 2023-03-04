@@ -75,9 +75,8 @@
  
  ## 📊 My Github Stats
 
-<p align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&layout=compact)](https://github.com/prashant9191/github-readme-stats)
-</p>
+ [![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&layout=compact)](https://github.com/prashant9191/github-readme-stats)
+
 
 
 
