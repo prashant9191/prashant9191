@@ -75,9 +75,9 @@
  
  ## 📊 My Github Stats
 
-<div align="center">
+
  [![Prashant Verma's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=prashant9191&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/prashant9191)
-</div>
+
 
 <p align="center">
     <a href="https://github.com/prashant9191/github-readme-streak-stats">
