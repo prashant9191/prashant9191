@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **talkprashant9@gmail.com**
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1norct9X8ZfuZGpmxfhKwkKIkDfvxtjwj/view?usp=sharing)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1bfG_sq3oTbliyUSPQSwL2pvcgUwIjFic/view?usp=sharing)
 
 - ⚡ Fun fact - *I love Writing 🖊️*
 
