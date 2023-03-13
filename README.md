@@ -23,6 +23,8 @@
 
 - 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/prashant-verma-b44738178/)
 
+- 👉 Connect with me on [Portfolio](https://prashant9191.github.io)
+
 
 <br/>
 <br/>
