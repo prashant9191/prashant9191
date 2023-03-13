@@ -75,8 +75,6 @@
  
  ## 📊 My Github Stats
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&layout=compact)
-
 <p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prashant Verma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant9191&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
