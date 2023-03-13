@@ -89,14 +89,3 @@
     <a href="https://github.com/prashant9191/github-readme-stats"><img alt="Prashant Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashant9191&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  </p> 
  <br/>
-
-
-<br/>
-<br/>
-
-<div> 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-
