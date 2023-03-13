@@ -78,7 +78,6 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&layout=compact)](https://github.com/prashant9191/github-readme-stats)
 
 <p align="center">
-<!--     <a href="https://github.com/prashant9191/github-readme-streak-stats"> -->
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prashant Verma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant9191&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -96,9 +95,6 @@
 <br/>
 
 <div> 
- 
-<!--   ![Snake animation](https://github.com/DeepanshuChugh/blob/output/github-contribution-grid-snake.svg) -->
-   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
