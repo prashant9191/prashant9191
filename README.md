@@ -11,7 +11,7 @@
 
 
 
-<!-- - 👨‍💻 See my Portfolio here [Portfolio](https://hurmitg.github.io/) -->
+<!-- - 👨‍💻 See my Portfolio here -->
 
 - 📫 Reach me at **talkprashant9@gmail.com**
 
@@ -21,9 +21,7 @@
 
 -  🌎 Let's Create something the World needs 🌎
 
-<!-- - 👉 Connect with me on [LinkedIn]()
 
-- 👉 Connect with me on [Portfolio]() -->
 
 <p> <a href="https://www.linkedin.com/in/prashant-verma-b44738178/"
 " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a \ 
