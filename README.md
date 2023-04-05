@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant9191&label=Profile%20views&color=0e75b6&style=flat" alt="Prashant" /> </p>
 
-
+<p align="center">Support me by staring ✨ my pinned repoes if you liked my work ❤️ </p>
 
 <!-- - 👨‍💻 See my Portfolio here -->
 
