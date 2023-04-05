@@ -5,7 +5,7 @@
 </div>
 <h2>- Full Stack Web Developer skilled in MERN stack.</h2>
 <h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
-<h1 align="center">Support me by staring ✨ my pinned repoes if you liked my work ❤️ </h1>
+<h1 align="center">If you like ❤️ my work, Support me by giving the Stars ✨ to my pinned Repos</h1>
 <br/>
 <img align="right" alt "Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
