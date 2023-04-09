@@ -95,3 +95,5 @@
    <img alt="Prashant Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashant9191&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
  </p> 
  <br/>
+<p align="center"> <img  alt="most used languages"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c" /></p>
