@@ -97,3 +97,31 @@
  <br/>
 <p align="center"> <img  alt="most used languages"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c" /></p>
+          
+          <br/>
+ <div id="calender_cont">
+        <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
+        </script>
+        <!-- Optionally, include the theme -->
+        <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" />
+
+
+        <div class="react-activity-calendar calendar tilt" id="calendwer">
+        </div>
+
+        <script>
+          // const GitHubCalendar = require("github-calender")
+          GitHubCalendar(".calendar", "prashant9191");
+          // or enable responsive functionality:
+          GitHubCalendar(".calendar", "prashant9191", { responsive: true });
+          // Use a proxy
+          GitHubCalendar(".calendar", "prashant9191", {
+            proxy(prashant9191) {
+              return fetch(`https://your-proxy.com/github?user=${prashant9191}`)
+            }
+          })
+        </script>
+      </div>
+
+    </section>
+  </div>
