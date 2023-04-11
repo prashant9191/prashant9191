@@ -6,10 +6,8 @@
 <h2>- Full Stack Web Developer skilled in MERN stack.</h2>
 <h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
 <h1 align="center">If you like ❤️ my work, Support me by giving the Stars ✨ to my pinned Repos</h1>
-<p align="center">Currently Working On Of The Best JS Weather Webapp </p>
+<p align="center">Currently Working On Of The Best JS Weather Webapp <a src="https://weather-webapp-omega.vercel.app/" target="_blank">Deployed Link</a></p>
 
-
- - 🌎 Weather App Deployed Link](https://weather-webapp-omega.vercel.app/)
 
 
 <br/>
