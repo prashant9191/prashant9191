@@ -20,7 +20,7 @@
 
 - 📫 Reach me at **talkprashant9@gmail.com**
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1NcWD8-7cBywg_pdy_r2dPDNvfik5SKbR/view?usp=sharing)
+- 📄 Know more about me [Resume](https://github.com/prashant9191/prashant9191/files/11494031/Prashant_Verma_Resume.pdf)
 
 - ⚡ Fun fact - *I love Writing 🖊️*
 
