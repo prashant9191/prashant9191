@@ -90,16 +90,12 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prashant Verma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant9191&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-
-  <br/>
-  
-<p align="center">
-   <img alt="Prashant Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashant9191&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
- </p> 
  <br/>
-<p align="center"> <img  alt="most used languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c" /></p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant9191&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="prashant" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&layout=compact&border_radius=0&theme=dark" alt="prashant" height="139" />
+</p>  
+
           
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 <h2 text-align=center >"Believe you can and you're halfway there" <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Motivated"></h2>
