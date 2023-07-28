@@ -90,9 +90,6 @@
     </a>
 </p>
  <br/>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&layout=compact&border_radius=0&theme=dark" alt="prashant" height="139" />
-</p>  
 
           
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
