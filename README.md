@@ -91,7 +91,6 @@
 </p>
  <br/>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant9191&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="prashant" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant9191&layout=compact&border_radius=0&theme=dark" alt="prashant" height="139" />
 </p>  
 
