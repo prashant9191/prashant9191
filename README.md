@@ -19,8 +19,7 @@
 
 - 📫 Reach me at **talkprashant9@gmail.com**
 
-- 📄 Know more about me [Resume](https://github.com/prashant9191/prashant9191/files/11560726/Prashant_Verma_Resume.pdf)
-- 📄 View [Resume](https://drive.google.com/file/d/1t9eFyTtlr5nugdfotnpBwnKJKOoKwgyS/view?usp=sharing)
+- 📄 Know more about me [Resume](https://github.com/prashant9191/prashant9191/files/12712077/Prashant_Verma_Resume.pdf)
 - ⚡ Fun fact - *I love Learning About Lastest Defence Technologies 🖊️*
 
 -  🌎 Let's Create something the World needs 🌎
